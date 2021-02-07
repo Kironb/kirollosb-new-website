@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Kironb/kirollosb-new-website#readme",
   "engines": {
     "node": "12.11.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }

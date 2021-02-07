@@ -1,0 +1,23 @@
+{
+  "name": "kirollosb-website",
+  "version": "1.0.0",
+  "description": "A new version of my website initially based off of kironb.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kironb/kirollosb-new-website.git"
+  },
+  "author": "kirollos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kironb/kirollosb-new-website/issues"
+  },
+  "homepage": "https://github.com/Kironb/kirollosb-new-website#readme",
+  "engines": {
+    "node": "12.11.1"
+  }
+}
